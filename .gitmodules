@@ -6,13 +6,13 @@ url=https://github.com/readium/r2-opds-kotlin.git
 url=https://github.com/readium/r2-lcp-kotlin.git
 [submodule "r2-navigator-kotlin"]
 	path = r2-navigator-kotlin
-url=https://github.com/readium/r2-navigator-kotlin.git
+	url = https://github.com/pavelric/r2-navigator-kotlin.git
 [submodule "r2-shared-kotlin"]
 	path = r2-shared-kotlin
-url=https://github.com/readium/r2-shared-kotlin.git
+	url = https://github.com/pavelric/r2-shared-kotlin.git
 [submodule "r2-streamer-kotlin"]
 	path = r2-streamer-kotlin
-url=https://github.com/readium/r2-streamer-kotlin.git
+	url = https://github.com/pavelric/r2-streamer-kotlin.git
 [submodule "r2-testapp-kotlin"]
 	path = r2-testapp-kotlin
-url=https://github.com/readium/r2-testapp-kotlin.git
+	url = https://github.com/pavelric/r2-testapp-kotlin.git
